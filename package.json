@@ -1,0 +1,22 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "parser google apps",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "iconv-lite": "^0.4.13",
+    "mysql": "^2.11.1",
+    "request": "^2.75.0",
+    "tress": "^1.0.3",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey",
+  "license": "ISC"
+}
