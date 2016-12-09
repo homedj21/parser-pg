@@ -2,7 +2,7 @@
   "name": "parser-pg",
   "version": "1.0.0",
   "description": "parser play google apps",
-  "main": "testsrv.js",
+  "main": "parser.js",
   "dependencies": {
     "cheerio": "^0.22.0",
     "iconv-lite": "^0.4.15",
