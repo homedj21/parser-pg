@@ -2,16 +2,11 @@
   "name": "parser-pg",
   "version": "1.0.0",
   "description": "parser play google apps",
-  "main": "parser.js",
+  "main": "testsrv.js",
   "dependencies": {
     "cheerio": "^0.22.0",
-    "fs": "0.0.1-security",
-    "http": "0.0.0",
-    "iconv-lite": "^0.4.13",
-    "mysql": "^2.11.1",
-    "request": "^2.75.0",
-    "tress": "^1.0.3",
-    "url": "^0.11.0"
+    "iconv-lite": "^0.4.15",
+    "request": "^2.79.0"
   },
   "devDependencies": {},
   "scripts": {
